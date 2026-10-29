@@ -1,0 +1,28 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Generated applications, installers, and model caches
+build/
+dist/
+.cache/
+.pyinstaller/
+*.app/
+*.dmg
+*.crdownload
+*.part
+*.pt
+
+# Local files and credentials
+.DS_Store
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/

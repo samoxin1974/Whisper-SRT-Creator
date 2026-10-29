@@ -1,0 +1,4 @@
+# Whisper installs its own runtime dependencies, including PyTorch.
+openai-whisper==20250625
+PyQt5>=5.15.10,<6
+certifi>=2023.5.7
